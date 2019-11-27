@@ -1,0 +1,18 @@
+{
+  "name": "babel-plugin-pillbug-js",
+  "version": "0.1.0",
+  "description": "A babel plugin for PillbugJs",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Buchan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyhasit/babel-plugin-pillbug-js"
+  },
+  "license": "MIT"
+}
