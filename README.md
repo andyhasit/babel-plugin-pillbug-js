@@ -8,7 +8,7 @@ In **.babelrc**, add:
 {
   "plugins": [
     [
-      "pillbug"
+      "babel-plugin-pillbug-js"
     ]
   ]
 }
